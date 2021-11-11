@@ -2,7 +2,8 @@
 
 - 🔭 Estudante de Sistema de Informação
 - 🌱 Estudando Fullstack!
-- 😄 Pronouns: ele/dele he/him
+- 🧑🏿‍💻 Estagiario em Desenvolvimento Node.js
+- 👦🏿 Pronouns: ele/dele he/him
 ##
 <div align="center">
   <a href="https://github.com/rafaeltomas">
