@@ -1,7 +1,7 @@
 ### Olá! eu sou Rafael 👋
 
 - 🔭 Estudante de Sistema de Informação
-- 🌱 Estudando Fullstack!
+- 🌱 Estudando Node.js!
 - 🧑🏿‍💻 Estagiario em Desenvolvimento Node.js
 - 👦🏿 Pronouns: ele/dele he/him
 ##
