@@ -7,7 +7,7 @@
 - 🧑🏿‍💻 Estagiario em Desenvolvimento Node.js
 - 👦🏿 Pronouns: ele/dele he/him
 
-<img src="https://38.media.tumblr.com/d30fe069cc48e11eeb31ae08293a159e/tumblr_nbtdxg9d6n1szf0nzo1_250.gif"  width="100" align="right" alt="r2d2">
+<img src="https://38.media.tumblr.com/d30fe069cc48e11eeb31ae08293a159e/tumblr_nbtdxg9d6n1szf0nzo1_250.gif"  width="240" align="right" alt="r2d2">
 
 ##
 <div align="center">
