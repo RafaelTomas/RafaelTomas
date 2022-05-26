@@ -2,8 +2,8 @@
 
 <img height="250" width="850" src="https://user-images.githubusercontent.com/73807228/153535920-9961208e-36e3-452f-aaef-12db2987544b.gif">
 
-- 🔭 Estudante de Sistema de Informação
-- 🌱 Estudando Web Development!!
+- 🔭 Estudante de Sistema de Informação - 3 semestre
+- 🌱 Estudando para ser Full Stackt!!
 - 👦🏿 Pronouns: ele/dele he/him
 
 
