@@ -4,6 +4,7 @@
 
 - 🔭 Estudante de Sistema de Informação - 3 semestre
 - 🌱 Estudando para ser Full Stackt!!
+- 💻 Desenvolvedor javaScript na MC2
 - 👦🏿 Pronouns: ele/dele he/him
 
 
