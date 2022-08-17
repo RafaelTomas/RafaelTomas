@@ -2,9 +2,9 @@
 
 <img height="250" width="850" src="https://user-images.githubusercontent.com/73807228/153535920-9961208e-36e3-452f-aaef-12db2987544b.gif">
 
-- 🔭 Estudante de Sistema de Informação - 3 semestre
+- 🔭 Estudante de Sistema de Informação 
 - 🌱 Estudando para ser Full Stackt!!
-- 💻 Desenvolvedor javaScript na MC2
+- 💻 Desenvolvedor Back-end na MV
 - 👦🏿 Pronouns: ele/dele he/him
 
 
