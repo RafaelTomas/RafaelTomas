@@ -4,7 +4,7 @@
 
 - 🔭 Estudante de Sistema de Informação 
 - 🌱 Estudando para ser Full Stackt!!
-- 💻 Desenvolvedor Back-end na MV
+- 💻 Desenvolvedor FullStack na MV
 - 👦🏿 Pronouns: ele/dele he/him
 
 
